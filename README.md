@@ -4,3 +4,8 @@
 [![](https://img.shields.io/badge/Instagram-HackintoshLifeIT-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/hackintoshlife.it_official/)
 
 # MSI-H270-RX470_mod_570-Hackintosh
+
+EFI H270 MSI Gaming M3 + Intel I5 7600 with OpenCore bootloader
+
+![descrizione](./screenshot/pcimage.jpg)
+
