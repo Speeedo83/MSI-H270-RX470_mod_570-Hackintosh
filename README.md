@@ -46,3 +46,12 @@ EFI H270 MSI Gaming M3 + Intel I5 7600 with OpenCore bootloader
 - [x] NVRAM
 - [x] Recovery (macOS) boot from OpenCore
 
+## Peripherals & Benchmarks
+
+![infohack](./screenshot/dpci.png)
+![infopci](./screenshot/pcilist.png)
+![CPU](./screenshot/cpu.png)
+![metal](./screenshot/igpu.png)
+![metal](./screenshot/gpu.png)
+![videoproc](./screenshot/hevc.png)
+
