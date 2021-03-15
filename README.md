@@ -15,6 +15,7 @@ EFI H270 MSI Gaming M3 + Intel I5 7600 with OpenCore bootloader
 | ---------------- | ---------------------------------- |
 | CPU              | Intel i5 7600 (4C-4T 6MB)          |
 | iGPU             | Intel® Graphics HD 630             |
+| GPU              | RX 470/570 Sapphire Nitro+ 4g      |
 | Audio            | Realtek ALC1220                    |
 | Ram              | 16 GB DDR4 2400 Mhz                |
 | Wifi + Bluetooth | Fenvi PCIe Wifi t919 1750 Mbps     |
@@ -50,8 +51,11 @@ EFI H270 MSI Gaming M3 + Intel I5 7600 with OpenCore bootloader
 
 ![infohack](./screenshot/dpci.png)
 ![infopci](./screenshot/pcilist.png)
+CPU Bench
 ![CPU](./screenshot/cpu.png)
+iGPU Bench
 ![metal](./screenshot/igpu.png)
+GPU RX 470/570 4g
 ![metal](./screenshot/gpu.png)
 ![videoproc](./screenshot/hevc.png)
 
