@@ -59,3 +59,10 @@ GPU RX 470/570 4g
 ![metal](./screenshot/gpu.png)
 ![videoproc](./screenshot/hevc.png)
 
+### Special Config:/Users/mario/Desktop/image
+
+- USB port mapping performed
+- VBios mod GPU, convert RX 470 4g Sapphire Nitro+ To RX 570 4g (increase performance) *
+
+See [ioreg](
+
