@@ -66,3 +66,14 @@ GPU RX 470/570 4g
 
 See [ioreg](https://github.com/Speeedo83/MSI-H270-RX470_mod_570-Hackintosh/blob/main/iMacLaboratorio.ioreg) for more clarification
 
+### MacOS bootable USB creation:
+- Read the Dortania guide for creating your USB from Windows or macOS
+- [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) - USB creation
+
+## BIOS Setting
+
+* Load Optimize Default
+* See and set
+
+![biosetup](./screenshot/biosetup.png)
+
