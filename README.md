@@ -64,5 +64,5 @@ GPU RX 470/570 4g
 - USB port mapping performed
 - VBios mod GPU, convert RX 470 4g Sapphire Nitro+ To RX 570 4g (increase performance) *
 
-See [ioreg](
+See [ioreg](https://github.com/Speeedo83/MSI-H270-RX470_mod_570-Hackintosh/blob/main/iMacLaboratorio.ioreg) for more clarification
 
