@@ -77,3 +77,25 @@ See [ioreg](https://github.com/Speeedo83/MSI-H270-RX470_mod_570-Hackintosh/blob/
 
 ![biosetup](./screenshot/biosetup.png)
 
+### Special VMod RX 470 4g To RX 570 4g Sapphire NItro+
+
+
+DISCLAIMER!!!
+
+This procedure involves risks for your GPU, I do not take any responsibility for it, I will limit myself only to describing.
+It is recommended to run this in GPU with dual bios.
+
+The mod in question and the relative Vbios is specific for the Sapphire Nitro+ RX 470 4g with elpida memories.
+
+GUIDE:
+
+Run windows and download this program: [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) by techpowerup and [ATIFlash](https://www.techpowerup.com/download/ati-atiflash/)
+
+after the download, look at the manufacturer of the memories;
+these can be elpida, micron, samsung or hynix, so as to download the most suitable Vbios for your card for conversion to RX 570 4g. 
+
+When you are sure, download the suitable V bios, in my specific case this:
+[VBios](https://github.com/Speeedo83/MSI-H270-RX470_mod_570-Hackintosh/blob/main/VbiosMod/Sapphire.RX570.rom)
+
+Unzip ATIFlash and copy the previously downloaded vbios into it.
+At this point open the terminal as system administrator and go to the root of the ATIFlash folder and run the command:
