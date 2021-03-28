@@ -92,10 +92,14 @@ GUIDE:
 Run windows and download this program: [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) by techpowerup and [ATIFlash](https://www.techpowerup.com/download/ati-atiflash/)
 
 after the download, look at the manufacturer of the memories;
-these can be elpida, micron, samsung or hynix, so as to download the most suitable Vbios for your card for conversion to RX 570 4g. 
+these can be elpida, micron, samsung or hynix, so as to download the most suitable V-Bios RX570 for your card for conversion. 
 
-When you are sure, download the suitable V bios, in my specific case this:
+When you are sure, download the suitable V-Bios, in my specific case this:
 [VBios](https://github.com/Speeedo83/MSI-H270-RX470_mod_570-Hackintosh/blob/main/VbiosMod/Sapphire.RX570.rom)
 
 Unzip ATIFlash and copy the previously downloaded vbios into it.
 At this point open the terminal as system administrator and go to the root of the ATIFlash folder and run the command:
+
+amdvbflashWin -f -p 0 nomerom.rom
+
+see pictures to simplify----------
