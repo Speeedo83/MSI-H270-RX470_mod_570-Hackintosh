@@ -116,3 +116,14 @@ see pictures to simplify----------
 temperature and frequency
 
 ![gpuztemp](./screenshot/gpuztemp.png)
+
+
+## Credits
+
+- [Apple](https://apple.com) for macOS.
+- [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html) For great and detailed guides.
+- [Lorys89](https://github.com/Lorys89) for Support
+- [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Support group for installation and post installation.
+
+# If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
