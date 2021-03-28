@@ -13,9 +13,9 @@ EFI H270 MSI Gaming M3 + Intel I5 7600 with OpenCore bootloader
 
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
-| CPU              | Intel i5 7600 (4C-4T 6MB)          |
+| CPU              | Intel i5 7600 (4C-4T 6MB) KBL      |
 | iGPU             | Intel® Graphics HD 630             |
-| GPU              | RX 470/570 Sapphire Nitro+ 4g      |
+| GPU              | RX 470/570 Sapphire Nitro+ 4GB     |
 | Audio            | Realtek ALC1220                    |
 | Ram              | 16 GB DDR4 2400 Mhz                |
 | Wifi + Bluetooth | Fenvi PCIe Wifi t919 1750 Mbps     |
