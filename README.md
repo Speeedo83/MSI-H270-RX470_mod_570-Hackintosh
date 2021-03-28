@@ -20,11 +20,12 @@ EFI H270 MSI Gaming M3 + Intel I5 7600 with OpenCore bootloader
 | Ram              | 16 GB DDR4 2400 Mhz                |
 | Wifi + Bluetooth | Fenvi PCIe Wifi t919 1750 Mbps     |
 | Lan              | Killer 2500 2.5G                   |
-| SSD              | SPCC Silicon Power 128G ( MacOS)   |
-| HDD              | WD 1 Tera                          | 
+| Name             | Sabrent Rocket 256G.    ( MacOS )  |
+| SSD              | SPCC Silicon Power 128G ( Win )    |
+| HDD              | WD 2 Tera                          | 
 | SmBios           | iMac 18,3                          |
 | BootLoader       | OpenCore 0.6.7                     |
-| macOS            | Big Sur 11.2,3                     |
+| macOS            | Big Sur 11.2.3                     |
 
 
 
