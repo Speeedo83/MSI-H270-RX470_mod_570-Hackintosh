@@ -47,6 +47,12 @@ EFI H270 MSI Gaming M3 + Intel I5 7600 with OpenCore bootloader
 - [x] NVRAM
 - [x] Recovery (macOS) boot from OpenCore
 
+## Full Native Network
+
+![fenvit919](./screenshot/fenvit919.png)
+
+Full work AirPort - AirDrop - AirPlay
+
 ## Peripherals & Benchmarks
 
 ![infohack](./screenshot/dpci.png)
@@ -104,3 +110,8 @@ amdvbflashWin -f -p 0 nomerom.rom
 
 see pictures to simplify----------
 ![guidaflash](./screenshot/guidaflash.png)
+![postflash](./screenshot/postflash.png)
+
+temperature and frequency
+
+![gpuztemp](./screenshot/gpuztemp.png)
