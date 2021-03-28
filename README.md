@@ -103,3 +103,4 @@ At this point open the terminal as system administrator and go to the root of th
 amdvbflashWin -f -p 0 nomerom.rom
 
 see pictures to simplify----------
+![guidaflash](./screenshot/guidaflash.png)
