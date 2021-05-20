@@ -24,14 +24,14 @@ EFI H270 MSI Gaming M3 + Intel I5 7600 with OpenCore bootloader
 | SSD              | SPCC Silicon Power 128G ( Win )    |
 | HDD              | WD 2 Tera                          | 
 | SmBios           | iMac 18,3                          |
-| BootLoader       | OpenCore 0.6.7                     |
-| macOS            | Big Sur 11.2.3                     |
+| BootLoader       | OpenCore 0.6.9                     |
+| macOS            | Big Sur 11.3.1                     |
 
 
 
 ![infobigsur](./screenshot/infomac.png)
 
-## Opencore (0.6.7) HakintoshLife
+## Opencore (0.6.9) HakintoshLife
 
 ### What works and What doesn't or WIP:
 
